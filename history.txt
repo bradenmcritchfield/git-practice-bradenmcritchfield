@@ -61,3 +61,12 @@
    92  git cd git_practice/
    93  cd git_practice/
    94  history | grep git > history.txt
+   95  git add .
+   96  git commit -m "Update history"
+   97  git push
+   98  git branch test
+   99  git switch branch
+  100  git switch test
+  101  git switch main
+  102  git branch -d test
+  103  history | grep git > history.txt
