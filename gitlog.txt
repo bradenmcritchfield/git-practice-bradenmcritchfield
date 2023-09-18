@@ -1,0 +1,17 @@
+a8c1d5b Merge pull request #1 from tolsen25/main
+b30d7b8 just win baby
+3b5656a edit readme.md
+879351d Merge two branches and resolve conflicts
+347c89a Update new_feaures.txt with new text
+ba6dcf8 Update new_features.txt
+7926de4 Merge branch 'features' "add new features to main branch"
+1fbebe1 Update file_1.txt
+06cbe31 Update new_features.txt
+b276ada add empty file
+b65bd93 Create .gitignore file
+ce079f4 Create Readme file
+62b2ac1 Change file_2.txt
+b3c3caf Change file_1.txt
+ddcb6b6 create file_2.txt
+a07b837 made file_2.txt and changed file_1.txt
+65c748e create file_1.txt
