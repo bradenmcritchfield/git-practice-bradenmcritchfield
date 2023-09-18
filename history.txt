@@ -54,3 +54,10 @@
    80  git pull
    81  git log --oneline > gitlog.txt
    82  history | grep git > history.txt
+   83  git add .
+   84  git commit -m "add log and history files"
+   85  git push
+   90  git init
+   92  git cd git_practice/
+   93  cd git_practice/
+   94  history | grep git > history.txt
