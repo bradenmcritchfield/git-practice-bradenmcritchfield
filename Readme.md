@@ -1,3 +1,3 @@
 # Git_Practice
 
-A repository for practiing and learning git commands.
+A repository for practicing and learning git commands.
